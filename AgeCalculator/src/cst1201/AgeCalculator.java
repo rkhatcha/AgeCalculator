@@ -39,6 +39,8 @@ public class AgeCalculator {
 		if (newAge >= 0)
 			System.out.println("You will be " + newAge + "-years-old in "
 				+ anotherYear + ".");
+                
+                //Pretend this is fixed.
 
 		/* 
 		 EXTRA CREDIT 1: Use an else statement above to output an error message. This
